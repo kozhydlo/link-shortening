@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://kozhydlom:1234@cluster0.lblwmai.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "secret": "mark123",
+    "baseUrl": "http://localhost:5000"
+}
